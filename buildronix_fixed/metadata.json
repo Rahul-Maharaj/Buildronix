@@ -1,0 +1,6 @@
+{
+  "name": "Buildronix",
+  "description": "Professional-grade AI IoT project architecture, 3D spatial modeling, and precision build guides.",
+  "requestFramePermissions": ["serial"],
+  "majorCapabilities": []
+}
